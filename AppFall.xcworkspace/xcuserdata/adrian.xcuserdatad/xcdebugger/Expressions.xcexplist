@@ -6,6 +6,9 @@
          contextName = "FirstViewController.viewDidLoad():FirstViewController.swift">
       </ContextState>
       <ContextState
+         contextName = "FirstViewController.tableView(_:cellForRowAt:):FirstViewController.swift">
+      </ContextState>
+      <ContextState
          contextName = "closure #1 in FirstViewController.LoadData():FirstViewController.swift">
          <PersistentStrings>
             <PersistentString
@@ -16,6 +19,17 @@
             </PersistentString>
             <PersistentString
                value = "item[key]!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in FirstViewController.loadData():FirstViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "snapshot.value">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
