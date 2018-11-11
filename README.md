@@ -1,5 +1,5 @@
 # appfall-ios
-App to reduce trash from food (List to buy things together)
+Eine App um den Einkauf durch eine Liste in Gruppen zu vereinfachen und Müll zu reduzieren
 
 -------------------------
 ## Links:
@@ -9,15 +9,15 @@ App to reduce trash from food (List to buy things together)
 
 ------------------------
 
-## How to install:
+## Installation:
 
-1.Download all files <br />
-2.Open Appfall.xcworkspace (not .xcodeproj) <br />
+1.Lade alle Dateien herunter <br />
+2.Öffne Appfall.xcworkspace (nicht .xcodeproj) <br />
 <br />
-### If there are any problems communicating to Firebase, follow these steps: <br />
-1. Download and install Cocoapods (https://cocoapods.org) <br />
-2. Close the project <br />
-3. Open Terminal and navigate to the project folder <br />
-4. type in *"pod install"* <br />
-5. If the installation finished, open Appfall.xcworkspace <br />
-### If there are any other Problems, contact me via [Mail](mailto:adrianbaumgart@icloud.com) (adrianbaumgart@icloud.com)
+### Wenn es Probleme mit der Kommunikation zum Server gibt, folge diesen Schritten: <br />
+1. Installiere Cocoapods (https://cocoapods.org) <br />
+2. Schließe das Projekt <br />
+3. Öffne das Terminal und navigiere mit cd zum Projektordner  <br />
+4. Gib *"pod install"* ein<br />
+5. Wenn die Installation beendet wurde, öffne Appfall.xcworkspace <br />
+### Wenn es noch andere Probleme gibt, kontaktiere mich via [Mail](mailto:adrianbaumgart@icloud.com) (adrianbaumgart@icloud.com)
